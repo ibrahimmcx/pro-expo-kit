@@ -27,7 +27,7 @@ Pro-Expo-Kit is a specialized environment for building React Native applications
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/ibrahimmcx/pro-expo-kit>
 cd pro-expo-kit
 
 # Install dependencies (when project is initialized)
